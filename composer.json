@@ -1,7 +1,7 @@
 {
 	"name": "kohkimakimoto/test",
 	"require": {
-		"composer/composer": "1.0.x-dev",
+		"composer/composer": "1.0-dev",
 		"symfony/console": "2.4.*"
 	}
 }
