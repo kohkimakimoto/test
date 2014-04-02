@@ -1,0 +1,4 @@
+{
+	"composer/composer": "dev-master",
+	"symfony/console": "2.4.*"
+}
