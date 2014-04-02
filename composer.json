@@ -1,4 +1,7 @@
 {
-	"composer/composer": "dev-master",
-	"symfony/console": "2.4.*"
+	"name": "kohkimakimoto/test",
+	"require": {
+		"composer/composer": "dev-master",
+		"symfony/console": "2.4.*"
+	}
 }
